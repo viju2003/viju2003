@@ -1,10 +1,10 @@
 # 💫 About Me:
 
-🔭 I’m currently working on an ATM locator Application<br>🌱 I’m also learning NodeJs, React, Python, Perl and Bash<br>👨‍💻 All of my projects are available at github.com/techvaness<br>💬 Ask me questions about HTML, CSS, JS, Wordpress.<br>⚡ Fun fact I am down to earth and entertaining
-
+<!-- 🔭 I’m currently working on an ATM locator Application<br>🌱 I’m also learning NodeJs, React, Python, Perl and Bash<br>👨‍💻 All of my projects are available at github.com/techvaness<br>💬 Ask me questions about HTML, CSS, JS, Wordpress.<br>⚡ Fun fact I am down to earth and entertaining
+ -->
 ## 🌐 Socials:
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/officialtechvaness) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/techvaness) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/claudeowusuberko) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@techvaness) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/techvaness)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/vijay.waghmare.925059) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mr_viju_045/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vijay-waghmare-225077223/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/vijaybw321)
 
 # 💻 Tech Stack:
 
