@@ -1,7 +1,9 @@
 # 💫 About Me:
-🌱 I’m also learning FRONT-END (HTML, CSS, JS, NodeJs, React) BACK-END (JAVA, Python)<br>
 
-<!-- 🔭 I’m currently working on an ATM locator Application<br>👨‍💻 All of my projects are available at github.com/techvaness<br>💬 Ask me questions about HTML, CSS, JS, Wordpress.<br>⚡ Fun fact I am down to earth and entertaining
+🌱 I’m also learning FRONT-END (HTML, CSS, JS, NodeJs, React) BACK-END (JAVA, Python)<br>
+👨‍💻 All of my projects are available at github.com/viju2003<br>
+
+<!-- 🔭 I’m currently working on an ATM locator Application<br>💬 Ask me questions about HTML, CSS, JS, Wordpress.<br>⚡ Fun fact I am down to earth and entertaining
  -->
 ## 🌐 Socials:
 
