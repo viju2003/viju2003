@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viju2003&label=Profile%20views&color=0e75b6&style=flat" alt="viju2003" /> </p>
 <!-- 🔭 I’m currently working on an ATM locator Application<br>💬 Ask me questions about HTML, CSS, JS, Wordpress.<br>⚡ Fun fact I am down to earth and entertaining
  -->
-# 🌐 Socials:
+#🌐 Socials:
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/vijay.waghmare.925059) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mr_viju_045/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vijay-waghmare-225077223/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/vijaybw321)
 
