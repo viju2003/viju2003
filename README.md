@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🌱 I’m also learning FRONT-END (HTML, CSS, JS, NodeJs, React) BACK-END (JAVA, Python)<br>
+🌱 I’m also learning FRONT-END (HTML, CSS, JS, NodeJs, React) BACK-END (JAVA)<br>
 👨‍💻 All of my projects are available at github.com/viju2003<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viju2003&label=Profile%20views&color=0e75b6&style=flat" alt="viju2003" /> </p>
